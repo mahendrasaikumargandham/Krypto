@@ -47,7 +47,7 @@ import React, { useContext } from "react";
 //     const { transactions, currentAccount } = useContext(TransactionContext);
   
     return (
-        <h1>Hello</h1>
+        <div></div>
     );
   };
   
