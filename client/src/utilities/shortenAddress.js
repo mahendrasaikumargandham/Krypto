@@ -1,0 +1,1 @@
+export let shortenAddress = (address) => `${address.split(0, 10)}`;
