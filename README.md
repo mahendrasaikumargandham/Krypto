@@ -6,3 +6,4 @@ A React Application build for Crypto currency exchange. Solidity is used to crea
   <li>Basic knowledge on Solidity</li>
   <li>Node JS</li>
 </ul>
+<p>First, Learn Solidity programming language for clear understanding about transactions, ethereums, etc..,</p>
